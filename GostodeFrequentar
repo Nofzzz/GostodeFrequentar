@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Página</title>
+</head>
+<body>
+    <header>
+        <h1>O Lago do Taboão</h1>
+        <p>Este é o Lago do Taboão em Bragança Paulista - SP</p>
+    </header>
+
+    <main>
+        <h2>Conteúdo Principal</h2>
+        <p>O principal ponto turístico da cidade de Bragança, utilizado tanto por idosos quanto por crianças.</p>
+        <img src="https://ecrie.com.br/sistema/conteudos/imagem/m_57_0_1_20122021152808.jpg" alt="Lago do Taboão">
+    </main>
+
+    <footer>
+        <p>lugares que gosto de frequentar em minha cidade: <a href="https://www.guiadebraganca.com.br/turismo-e-lazer">Pontos Turísticos</a></p>
+    </footer>
+</body>
+</html>
